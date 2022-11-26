@@ -2,7 +2,7 @@
 
 int main()
 {
-	int x=0;
+	int maseter =88;
 	
 	/* develop version */
 	int z= x+1;
